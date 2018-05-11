@@ -1,2 +1,3 @@
 # hello-world
-bit operation on DNN
+bit operation on DNN 
+lay
